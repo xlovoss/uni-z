@@ -1,4 +1,4 @@
-4 hauptsächlich in [[CRSIP]]
+4 hauptsächlich in [[CRISP]]
 
 ![[GML_06_01 ML.pdf#page=48]]
 

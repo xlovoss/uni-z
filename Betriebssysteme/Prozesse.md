@@ -10,7 +10,7 @@ Multiprogrammiersys -> verschiedene Prozesse zwischen den man Wechselt, immer nu
 Multiprozessorsysteme -> eng vs lose gekoppelt [[Aufbau von Computersystem]]
 
 ## Prozesse 
-Softwar ist eine Menge von sequentiellen Prozessen 
+Software ist eine Menge von sequentiellen Prozessen 
 ein Kern kann immer nur ein Prozess gleichzeitig
 
 ## Wie geht das

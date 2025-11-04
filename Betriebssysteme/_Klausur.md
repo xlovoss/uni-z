@@ -6,8 +6,6 @@ Am 27.11.25
 Laut Nachdenken:
 ### Theorie
 
-
-
 - Aufgaben Betriebssystem (Was sind Betriebsmittel, Verwaltung, was zählt dazu)
 - Nichts von Neumann direktes Fragen
 - Aufgaben und Übungen sich anschauen in dem Foliensatz, dann ist man gut Vorbereitet
@@ -34,7 +32,7 @@ Laut Nachdenken:
 	- Er liefert uns das Gant
 	- Für den Fall wenn wir uns vertun ist ein zweites Diagramm da
 
-- Prio hat man mal gehört
+- Prio hat man mal gehört (Man gibt Prozessen verschiedene Prios und dann arbeiten man die Prios, in der Prio FCFS und Round Robin )
 - Andere Sachen nicht im Detail anschauen
 - Wenn keine Reihenfolge gesagt wird ist es 
 
@@ -42,7 +40,7 @@ Laut Nachdenken:
 - Freispeicherverwaltung
 	- Verwaltung von Freiem Speicher 
 
-- Paging - Sehr wichtig
+- ==Paging - Sehr wichtig==
 	- Virtueller Speicher in binär 
 		- wir bekommen eine binäre Adresse
 		- Sollen sagen wenn ein Prozess die un die Adresse anfordert und wir sollen anhand der Seitenrahmtabelle sagen was sich verändert, 
@@ -52,10 +50,10 @@ Laut Nachdenken:
 - Seitentabelle ist 4 Byte Groß!!!!!!
 
 
-- Was ein TLB macht und wofür der Gut ist (Hardware Cache der nichts mit dem Normalen zu tun hat) =>für wenige häufig benutzte Seiten
+- ==Was ein TLB macht und wofür der Gut ist (Hardware Cache der nichts mit== dem Normalen zu tun hat) =>für wenige häufig benutzte Seiten
 - Logik von MMU 
 - Mehrstufige Seitentabelle ist so wie ein I-Node 
--> 10 Punkte für Mehrstufige Seitentabelle
+==-> 10 Punkte für Mehrstufige Seitentabelle==
 
 - NRU
 	- Was heißt es CLuster zu bauen ?

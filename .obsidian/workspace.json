@@ -8,19 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51cc1d9ad54d93c3",
+            "id": "7ff2a2ca8d618524",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Betriebssysteme/Betriebssysteme 1.pdf"
+                "file": "Betriebssysteme/Seitentabelle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Betriebssysteme 1"
+              "icon": "lucide-file",
+              "title": "Seitentabelle"
             }
           },
           {
-            "id": "e202508e9035a544",
+            "id": "809ddb72a79233a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,21 +36,19 @@
             }
           },
           {
-            "id": "a57898631487dfef",
+            "id": "31d0bd5831aa92b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Betriebssysteme/Themen mit Niklas.md",
-                "mode": "source",
-                "source": false
+                "file": "_Bilder/Betriebssysteme 3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Themen mit Niklas"
+              "icon": "lucide-file-text",
+              "title": "Betriebssysteme 3"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,31 +197,34 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e202508e9035a544",
+  "active": "31d0bd5831aa92b5",
   "lastOpenFiles": [
-    "Betriebssysteme/Themen mit Niklas.md",
+    "Betriebssysteme/Seitentabelle.md",
     "Betriebssysteme/_Klausur.md",
-    "Betriebssysteme/Pipelining.md",
-    "Betriebssysteme/Aufbau von Computersystem.md",
-    "Betriebssysteme/Betriebssysteme 1.pdf",
     "Betriebssysteme/Vorlesung 7.md",
     "Betriebssysteme/Vorlesung 6.md",
-    "Betriebssysteme/Magnetsiche Sicherung + Flash.md",
-    "Big Data - Data Science/CRISP.md",
-    "Big Data - Data Science/_Klausur von Emil.md",
-    "Big Data - Data Science/2te Vorlesung.md",
-    "Big Data - Data Science/1. Vorlesung.md",
+    "Big Data - Data Science/Neuronale Netze.md",
     "_Bilder/GML_05_01 Oekonometrie.pdf",
-    "_Bilder/GML_02_01 Oekonometrie.pdf",
-    "_Bilder/Betriebssysteme 1.pdf",
-    "_Bilder/BDDS_01_01_BDA_Theorie1.pdf",
-    "Big Data - Data Science/Nochmal Wiederholung/2025 Voter Persuasion Auszug.pdf",
-    "Betriebssysteme/Prozesse.md",
-    "README.md",
-    "_Bilder/Betriebssysteme 3.pdf",
     "obsidian/README.md",
     "obsidian",
+    "_Bilder/GML_02_01 Oekonometrie.pdf",
+    "Big Data - Data Science/Nochmal Wiederholung/2025 Voter Persuasion Auszug.pdf",
+    "Big Data - Data Science/_Klausur von Emil.md",
+    "Big Data - Data Science/5te Veranstaltung.md",
+    "Big Data - Data Science/CRISP.md",
+    "_Bilder/BDDS_01_01_BDA_Theorie1.pdf",
+    "Big Data - Data Science/1. Vorlesung.md",
+    "_Bilder/Betriebssysteme 3.pdf",
+    "Betriebssysteme/Themen mit Niklas.md",
+    "_Bilder/Betriebssysteme 1.pdf",
     "_Bilder/Betriebssysteme 2-1.pdf",
+    "Betriebssysteme/Betriebssysteme 1.pdf",
+    "Betriebssysteme/Pipelining.md",
+    "Betriebssysteme/Aufbau von Computersystem.md",
+    "Betriebssysteme/Magnetsiche Sicherung + Flash.md",
+    "Big Data - Data Science/2te Vorlesung.md",
+    "Betriebssysteme/Prozesse.md",
+    "README.md",
     "_Bilder/Betriebssysteme 4.pdf",
     "Betriebssysteme/Partitionen.md",
     "Betriebssysteme/_Betriebssysteme.md",
@@ -232,11 +235,8 @@
     "Big Data - Data Science/6te Vorlesung.md",
     "Big Data - Data Science/wdh-Logit.md",
     "Pasted image 20251017092229.png",
-    "Betriebssysteme/Praxisteil.md",
     "_Bilder/Pasted image 20251016110936.png",
     "_Bilder/Pasted image 20251016100733.png",
-    "Big Data - Data Science/Nochmal Wiederholung/Neuronale Netze Wiederholung.md",
-    "IT-Trends/Strategieformulierungen.md",
     "_Bilder/Pasted image 20251014192006.png",
     "_Bilder/Pasted image 20251014191356.png",
     "_Bilder/Pasted image 20251014190236.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Betriebssysteme/Seitentabelle.md",
+                "file": "Big Data - Data Science/_Klausurvorbereitung (Zusammenfassung).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seitentabelle"
+              "title": "_Klausurvorbereitung (Zusammenfassung)"
             }
           },
           {
@@ -27,28 +27,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Betriebssysteme/_Klausur.md",
+                "file": "Big Data - Data Science/2te Vorlesung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Klausur"
+              "title": "2te Vorlesung"
             }
           },
           {
             "id": "31d0bd5831aa92b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "_Bilder/Betriebssysteme 3.pdf"
+                "file": "Big Data - Data Science/3te Vorlesung nachholen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Betriebssysteme 3"
+              "icon": "lucide-file",
+              "title": "3te Vorlesung nachholen"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,43 +198,44 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "31d0bd5831aa92b5",
+  "active": "7ff2a2ca8d618524",
   "lastOpenFiles": [
     "Betriebssysteme/Seitentabelle.md",
+    "Big Data - Data Science/2te Vorlesung.md",
+    "Big Data - Data Science/_Klausurvorbereitung (Zusammenfassung).md",
+    "Big Data - Data Science/3te Vorlesung nachholen.md",
+    "obsidian/README.md",
+    "README.md",
     "Betriebssysteme/_Klausur.md",
+    "Big Data - Data Science/_Infos.md",
+    "Software Engineer/Software Engine.md",
+    "Software Engineer/Software Engineering WS 2025.pdf",
+    "Software Engineer/4.te Vorlesung.md",
+    "Software Engineer/5te. Vorlesung.md",
+    "Software Engineer/Software Engineering WS 2025 Teil 4.pdf",
+    "Software Engineer/Software Engineering WS 2025 Teil 3-1.pdf",
+    "Software Engineer/Software Engineering WS 2025 Teil 2-1.pdf",
+    "Software Engineer/7te Vorlesung.md",
+    "_Bilder/Betriebssysteme 3.pdf",
     "Betriebssysteme/Vorlesung 7.md",
     "Betriebssysteme/Vorlesung 6.md",
     "Big Data - Data Science/Neuronale Netze.md",
     "_Bilder/GML_05_01 Oekonometrie.pdf",
-    "obsidian/README.md",
     "obsidian",
     "_Bilder/GML_02_01 Oekonometrie.pdf",
     "Big Data - Data Science/Nochmal Wiederholung/2025 Voter Persuasion Auszug.pdf",
-    "Big Data - Data Science/_Klausur von Emil.md",
     "Big Data - Data Science/5te Veranstaltung.md",
     "Big Data - Data Science/CRISP.md",
     "_Bilder/BDDS_01_01_BDA_Theorie1.pdf",
     "Big Data - Data Science/1. Vorlesung.md",
-    "_Bilder/Betriebssysteme 3.pdf",
     "Betriebssysteme/Themen mit Niklas.md",
-    "_Bilder/Betriebssysteme 1.pdf",
-    "_Bilder/Betriebssysteme 2-1.pdf",
-    "Betriebssysteme/Betriebssysteme 1.pdf",
     "Betriebssysteme/Pipelining.md",
     "Betriebssysteme/Aufbau von Computersystem.md",
     "Betriebssysteme/Magnetsiche Sicherung + Flash.md",
-    "Big Data - Data Science/2te Vorlesung.md",
     "Betriebssysteme/Prozesse.md",
-    "README.md",
-    "_Bilder/Betriebssysteme 4.pdf",
     "Betriebssysteme/Partitionen.md",
     "Betriebssysteme/_Betriebssysteme.md",
     "Big Data - Data Science/8te Vorlesung (Letzte Vorlesung).md",
-    "Big Data - Data Science/Permutation Feature Importance + Logistische Regressionen.md",
-    "Big Data - Data Science/7te Vorlesung (q and a).md",
-    "Betriebssysteme/Vorlesung 10.md",
-    "Big Data - Data Science/6te Vorlesung.md",
-    "Big Data - Data Science/wdh-Logit.md",
     "Pasted image 20251017092229.png",
     "_Bilder/Pasted image 20251016110936.png",
     "_Bilder/Pasted image 20251016100733.png",

@@ -1,0 +1,41 @@
+Ob wir in den Krieg ziehen sollen
+Labert Durchfall
+
+### Wiederholung
+Wir haben die Informationssicherheit
+Auf zwei Sachen müssen wir uns achten
+Person- und Unternehmsbezogene Daten
+-> Daten liegen Analog oder Digital vor. Analoge Daten sind hinter eine Brandschutztür
+IT Sicherheit 
+- ALles was Netzwerke sind
+- Switch, Router, Antenne Kameras 
+- Cyber-Sicherheit ist alles bis auf das Archiv
+
+![[IS_DS_01_Informationssicherheit_Vorlage.pdf#page=38]]
+**Grundziel der Informationstechnik**
+Vertraulichkeit 
+Integrität
+Verfügbarkeit
+
+weiter gehts
+![[IS_DS_01_Informationssicherheit_Vorlage.pdf#page=42]]
+
+Auf der einen Seite hat man die DSMS 
+Datenschutzmanagementsystem
+- Sowie Ziele davon
+- Transparenz
+- Intervenierbarkeit
+- Nicht-Verkettbarkeit (Daten dürfen nicht von einer Firma zu anderen geschickt werden)
+#klausur hatte 4 Punkte dorthin
+
+#### 3 P's
+**Passwort**
+
+**Patchen**
+-> Sicherheitsupdates sind wichtig, immer patchen
+Sicherheitsupdates haben meist einen Sinn
+patchi patchi patchi 
+
+**Prävention**
+Schulungen 
+

@@ -25,3 +25,26 @@ Unter welchen Rahmen findet Unternehmensführung statt?
 
 So eine Frage kam dann auch in #klausur 
 Unternehmen haben nur ein Ziel, einen Kompetetiven Vorteil gegenüber andere zu haben
+
+## Strategiephasen des Harvardkonzeptes 
+
+![[strategisches_management.pdf#page=19]]
+
+#klausur  ABAB Konzept -> Wie scahffe ich mein Unternehmen auf die Erfolgsspur zu kommen
+
+Das ist besonders wichtig, wir müssen uns an allen Punkten etwas langhangeln
+
+## Punkt 1
+![[strategisches_management.pdf#page=22]]
+80 Prozent der Leitbilder werden nicht gelebt
+
+
+![[strategisches_management.pdf#page=23]]
+Das Bild soll irgendwie selbsterklärend sien 
+
+strategische Lücke kann strategsich da sein, wie haben sich die Zuknunft verändert werden.
+Konzept um die Lücke zu schließen
+
+operative Lücke wie man in 2 Jahren am Arsch sein wird
+
+

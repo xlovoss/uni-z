@@ -11,4 +11,7 @@ Alles Multiple Choice
 
 Das ist alles was wir machen 
 Hier gehts weiter
- [[strategisches_management.pdf]]
+
+[[Unternehmensführung]]
+
+

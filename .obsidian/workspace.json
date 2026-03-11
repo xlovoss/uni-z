@@ -13,42 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SS26/Infosicherheit und Datenschutz/Technische und Orga.md",
+                "file": "SS26/BA/Hier will ich über die Themenfindeung vghk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technische und Orga"
+              "title": "Hier will ich über die Themenfindeung vghk"
             }
           },
           {
-            "id": "cbb0e1b198366508",
+            "id": "81801e239868799d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SS26/Strategischen Management/2te Vorlesungen bestimmung Strategischer ziele.md",
+                "file": "SS26/Infosicherheit und Datenschutz/2.te Spaß.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2te Vorlesungen bestimmung Strategischer ziele"
+              "title": "2.te Spaß"
             }
           },
           {
-            "id": "0f8b9d78879779a8",
+            "id": "b000cb52441575e7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SS26/_Bilder/strategisches_management.pdf"
+                "file": "SS26/Infosicherheit und Datenschutz/3.te.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "strategisches_management"
+              "icon": "lucide-file",
+              "title": "3.te"
+            }
+          },
+          {
+            "id": "1599ea8c0965be30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SS26/Infosicherheit und Datenschutz/Kryptographie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kryptographie"
+            }
+          },
+          {
+            "id": "5ff2d23d91586869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SS26/Strategischen Management/vierter Spaß.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vierter Spaß"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,53 +227,54 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cbb0e1b198366508",
+  "active": "2cd02d3e0631d222",
   "lastOpenFiles": [
-    "SS26/Strategischen Management/1ste Vorlesung.md",
-    "SS26/_Bilder/strategisches_management.pdf",
+    "SS26/Infosicherheit und Datenschutz/Kryptographie.md",
+    "SS26/Strategischen Management/vierter Spaß.md",
+    "SS26/Infosicherheit und Datenschutz/3.te.md",
+    "SS26/Infosicherheit und Datenschutz/2.te Spaß.md",
+    "WS25/Big Data - Data Science/5te Veranstaltung.md",
     "SS26/Strategischen Management/2te Vorlesungen bestimmung Strategischer ziele.md",
+    "SS26/BA/Hier will ich über die Themenfindeung vghk.md",
+    "SS26/BA/Quellen.md",
+    "SS26/BA/Was ist TFT.md",
+    "SS26/_Bilder/Pasted image 20260309155104.png",
+    "SS26/BA/Github suche.md",
+    "SS26/ERP/ERP.md",
+    "SS26/ERP",
+    "SS26/Strategischen Management/Unternehmensführung.md",
+    "SS26/Strategischen Management/1ste Vorlesung.md",
+    "SS26/Vorbereitung zur BA/Willkommen in Vorbereitungssiminar.md",
+    "WS25/Big Data - Data Science/Maximum Likelihood.md",
+    "SS26/_Bilder/strategisches_management.pdf",
+    "WS25/Big Data - Data Science/7te Vorlesung (q and a).md",
+    "WS25/Big Data - Data Science/8te Vorlesung (Letzte Vorlesung).md",
+    "WS25/Big Data - Data Science/wdh-Logit.md",
+    "WS25/Big Data - Data Science/1. Vorlesung.md",
+    "SS26/Vorbereitung zur BA/Expose.md",
+    "SS26/_Bilder/Pasted image 20260308132132.png",
     "SS26/Infosicherheit und Datenschutz/Technische und Orga.md",
-    "SS26/Infosicherheit und Datenschutz/2te Spaß.md",
     "SS26/Infosicherheit und Datenschutz/1.Vorlesung.md",
     "SS26/_Bilder/Pasted image 20260305134210.png",
-    "SS26/Strategischen Management/Unternehmensführung.md",
     "SS26/Anwendungsprojekt/1. Zuch Neustart.md",
     "SS26/Strategischen Management",
     "SS26/_Bilder/Anwendungsprojekt.pdf",
-    "SS26/Vorbereitung zur BA/Expose.md",
     "SS26/Anwendungsprojekt",
-    "SS26/BA/Hier will ich über die Themenfindeung vghk.md",
     "SS26/BA",
     "SS26/_Bilder/Unbenannt.jpg",
-    "SS26/Vorbereitung zur BA/Willkommen in Vorbereitungssiminar.md",
     "SS26/Vorbereitung zur BA",
     "id.md",
     "SS26/_Bilder/IS_DS_01_Informationssicherheit_Vorlage.pdf",
     "SS26/_Bilder/mso65E4.tmp",
     "SS26/_Bilder/mso3945.tmp",
     "SS26/_Bilder/Pasted image 20260302104630.png",
-    "SS26/Infosicherheit und Datenschutz",
     "Software Engineer/5te. Vorlesung.md",
     "Heute.md.md",
     "Pasted image 20260110132027.png",
     "Pasted image 20260110132017.png",
-    "Webtech/wsFormat_Annahme.md",
-    "Webtech/Allgemeines.md",
-    "Software Engineer/7te Vorlesung.md",
-    "Software Engineer/EInführung.md",
-    "Software Engineer/IT-Management.md",
-    "Software Engineer/Software Engine.md",
-    "Software Engineer/4.te Vorlesung.md",
-    "Betriebssysteme/Vorlesung 10.md",
-    "Betriebssysteme/_Betriebssysteme.md",
-    "Betriebssysteme/Vorlesung 8.md",
-    "Betriebssysteme/Magnetsiche Sicherung + Flash.md",
-    "Betriebssysteme/_Klausur.md",
     "Pasted image 20251017092229.png",
     "_Bilder/Pasted image 20251016110936.png",
     "_Bilder/Pasted image 20251016100733.png",
-    "_Bilder/Pasted image 20251014192006.png",
-    "_Bilder/Pasted image 20251014191356.png",
     "Untitled.canvas"
   ]
 }

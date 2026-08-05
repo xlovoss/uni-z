@@ -8,63 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84197e9aef73ac08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SS26/BA/Arbeit/Schritte/Konzept.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Konzept"
-            }
-          },
-          {
-            "id": "464a95417f2ea09e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SS26/BA/Arbeit/Schritte/Input.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Input"
-            }
-          },
-          {
-            "id": "706478fd86e85a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SS26/BA/Alte Arbeit/Hier will ich über die Themenfindung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hier will ich über die Themenfindung"
-            }
-          },
-          {
-            "id": "5ede5ee1a77ec49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SS26/BA/Arbeit/PLAN BA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PLAN BA"
-            }
-          },
-          {
-            "id": "0e4908fc8e2c2c03",
+            "id": "8b8a2704785df5db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,9 +20,65 @@
               "icon": "lucide-file",
               "title": "Vorbereitung Start"
             }
+          },
+          {
+            "id": "e7bdc023a28aa67a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SS26/BA/Arbeit/Vorbereitung Start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vorbereitung Start"
+            }
+          },
+          {
+            "id": "366a6b449ffe0570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SS26/BA/Arbeit/Konzept mit weiteren Gedanken.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Konzept mit weiteren Gedanken"
+            }
+          },
+          {
+            "id": "a0a3a965a0785227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SS26/BA/Arbeit/Schritte/Kapitel/NER und MEHR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NER und MEHR"
+            }
+          },
+          {
+            "id": "14aff142a6f857a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SS26/BA/Arbeit/Konzept mit weiteren Gedanken.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Konzept mit weiteren Gedanken"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -227,45 +229,44 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "464a95417f2ea09e",
+  "active": "2cd02d3e0631d222",
   "lastOpenFiles": [
-    "SS25/SGA2_WP1_Deliverable_2_2_main_report_with_annexes_final.pdf",
-    "SS26/BA/Arbeit/Schritte/Webscraping.md",
-    "SS26/BA/Arbeit/Schritte/Konzept.md",
-    "SS26/BA/Arbeit/Schritte/Input.md",
+    "SS26/BA/Arbeit/Schritte/PLAN BA.md",
+    "SS26/BA/Arbeit/Schritte/Kapitel",
+    "SS26/BA/Arbeit/Schritte/Kapitel/methodenbegruendung_mit_quellen.md",
+    "Unbenannt.md",
+    "SS26/BA/Arbeit/Konzept mit weiteren Gedanken.md",
+    "SS26/BA/Arbeit/Schritte/Kapitel/NER und MEHR.md",
     "SS26/BA/Arbeit/Vorbereitung Start.md",
-    "SS26/BA/Arbeit/PLAN BA.md",
-    "SS26/BA/Gespräch Firmentalk Kulturexperte.md",
+    "SS26/BA/Arbeit/Schritte/Input.md",
+    "SS26/BA/Arbeit/Schritte/NLP.md",
     "SS26/BA/Alte Arbeit/Was ist TFT.md",
     "SS26/BA/Alte Arbeit/Was ist lead conversion.md",
     "SS26/BA/Alte Arbeit/Hier will ich über die Themenfindung.md",
-    "SS26/BA/Alte Arbeit/Github suche.md",
     "SS26/BA/Alte Arbeit/Gespräch Anja KI zusammengefasst.md",
+    "SS26/BA/Alte Arbeit/Github suche.md",
     "SS26/BA/Alte Arbeit/Hanisch-Blischarski.md",
-    "SS26/Infosicherheit und Datenschutz/7ten Hackerangriff.md",
-    "SS26/Strategischen Management/Repetetorium.md",
+    "SS26/Vorbereitung zur BA/Willkommen in Vorbereitungssiminar.md",
+    "Anja.md",
     "SS26/BA/Arbeit/Schritte",
-    "SS26/BA/~$Stellenbörsenbeobachtung-Vertrieb.xlsx",
-    "SS26/Strategischen Management/11ter Letzter.md",
-    "SS26/Strategischen Management/1ste Vorlesung.md",
-    "SS26/Anwendungsprojekt/1. Zuch Neustart.md",
-    "SS26/BA/Stellenbörsenbeobachtung-Vertrieb.pdf",
     "SS26/BA/Arbeit",
-    "SS26/BA/Expose_BA.pdf",
     "SS26/BA/Alte Arbeit",
-    "SS26/BA/Quellen.md",
-    "WS25/Big Data - Data Science/Nochmal Wiederholung/Lineare regression (In verständlich).md",
-    "WS25/Big Data - Data Science/Nochmal Wiederholung/Auswertung Multiple Lineare Regressionen.md",
-    "WS25/Big Data - Data Science/2te Vorlesung.md",
-    "WS25/Big Data - Data Science/1. Vorlesung.md",
-    "SS26/_Bilder/strategisches_management.pdf",
-    "SS26/Strategischen Management/Nun wirklich Letzte.md",
-    "SS26/_Bilder/IS_DS_01_Informationssicherheit_Vorlage.pdf",
+    "SS26/BA",
+    "SS26/Neuer Ordner",
+    "SS26/Arbeit/Schritte/NLP.md",
+    "SS26/Arbeit/Schritte/Konzept.md",
+    "SS26/Arbeit/Schritte/Input.md",
+    "SS26/Arbeit/Vorbereitung Start.md",
+    "SS26/Arbeit/Schritte",
+    "SS26/Arbeit/PLAN BA.md",
+    "SS26/Arbeit",
+    "SS26/Alte Arbeit/Was ist TFT.md",
+    "SS26/Alte Arbeit/Was ist lead conversion.md",
+    "SS26/Alte Arbeit/Hier will ich über die Themenfindung.md",
+    "SS26/Alte Arbeit/Hanisch-Blischarski.md",
+    "SS26/Alte Arbeit",
+    "Alte Arbeit",
     "SS26/_Bilder/Unbenannt.jpg",
-    "SS26/_Bilder/Anwendungsprojekt.pdf",
-    "SS26/Strategischen Management/Unternehmensführung.md",
-    "2026-05-01.md",
-    "SS26/BA/Expose_BA.docx",
     "Unbenannt.canvas",
     "SS26/_Bilder/Pasted image 20260311180616.png",
     "SS26/_Bilder/Pasted image 20260311141819.png",

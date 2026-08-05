@@ -1,4 +1,4 @@
-Von [[Konzept]]
+Von [[Konzept mit weiteren Gedanken]]
 
 Wie bekomme ich den Input den ich haben will
 
@@ -13,3 +13,10 @@ DInh et al. hat crawling gemacht und die ergebnis mit qwen abgeglichen und die w
 
 
 Unabhängig davon sollte eher meine Frage sein bekannte Job APi anzuzapfen oder ein crawler zu bauen der den ganzen Job Markt durchforstet. Zweitere würde unfassbar viel Zeitfressen und fällt somit raus 
+
+Und was dominic bereit ist dauerhaft zu zahlen will
+
+LLM assitent parsing könnte noch aktraktiv werden
+
+Darf ich API angreifen?
+Ansonsten komme ich zu identischen Ergebnissen wie Dominic

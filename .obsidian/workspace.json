@@ -4,53 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "8d392014b1fd19ce",
+        "id": "6a35292bb92ef34e",
         "type": "tabs",
         "children": [
           {
-            "id": "b000cb52441575e7",
+            "id": "84197e9aef73ac08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SS26/Infosicherheit und Datenschutz/3.te.md",
+                "file": "SS26/BA/Arbeit/Schritte/Konzept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.te"
+              "title": "Konzept"
             }
           },
           {
-            "id": "1599ea8c0965be30",
+            "id": "464a95417f2ea09e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SS26/Infosicherheit und Datenschutz/Kryptographie.md",
+                "file": "SS26/BA/Arbeit/Schritte/Input.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kryptographie"
+              "title": "Input"
             }
           },
           {
-            "id": "5ff2d23d91586869",
+            "id": "706478fd86e85a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SS26/Strategischen Management/vierter Lachs.md",
+                "file": "SS26/BA/Alte Arbeit/Hier will ich über die Themenfindung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vierter Lachs"
+              "title": "Hier will ich über die Themenfindung"
+            }
+          },
+          {
+            "id": "5ede5ee1a77ec49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SS26/BA/Arbeit/PLAN BA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PLAN BA"
+            }
+          },
+          {
+            "id": "0e4908fc8e2c2c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SS26/BA/Arbeit/Vorbereitung Start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vorbereitung Start"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "alte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +118,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
@@ -199,54 +227,55 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5ff2d23d91586869",
+  "active": "464a95417f2ea09e",
   "lastOpenFiles": [
-    "Pasted image 20260311141819.png",
-    "SS26/Infosicherheit und Datenschutz/Kryptographie.md",
-    "SS26/Strategischen Management/vierter Lachs.md",
-    "SS26/Infosicherheit und Datenschutz/3.te.md",
-    "SS26/Infosicherheit und Datenschutz/2.te Spaß.md",
-    "WS25/Big Data - Data Science/5te Veranstaltung.md",
-    "SS26/Strategischen Management/2te Vorlesungen bestimmung Strategischer ziele.md",
-    "SS26/BA/Hier will ich über die Themenfindeung vghk.md",
-    "SS26/BA/Quellen.md",
-    "SS26/BA/Was ist TFT.md",
-    "SS26/_Bilder/Pasted image 20260309155104.png",
-    "SS26/BA/Github suche.md",
-    "SS26/ERP/ERP.md",
-    "SS26/ERP",
-    "SS26/Strategischen Management/Unternehmensführung.md",
+    "SS25/SGA2_WP1_Deliverable_2_2_main_report_with_annexes_final.pdf",
+    "SS26/BA/Arbeit/Schritte/Webscraping.md",
+    "SS26/BA/Arbeit/Schritte/Konzept.md",
+    "SS26/BA/Arbeit/Schritte/Input.md",
+    "SS26/BA/Arbeit/Vorbereitung Start.md",
+    "SS26/BA/Arbeit/PLAN BA.md",
+    "SS26/BA/Gespräch Firmentalk Kulturexperte.md",
+    "SS26/BA/Alte Arbeit/Was ist TFT.md",
+    "SS26/BA/Alte Arbeit/Was ist lead conversion.md",
+    "SS26/BA/Alte Arbeit/Hier will ich über die Themenfindung.md",
+    "SS26/BA/Alte Arbeit/Github suche.md",
+    "SS26/BA/Alte Arbeit/Gespräch Anja KI zusammengefasst.md",
+    "SS26/BA/Alte Arbeit/Hanisch-Blischarski.md",
+    "SS26/Infosicherheit und Datenschutz/7ten Hackerangriff.md",
+    "SS26/Strategischen Management/Repetetorium.md",
+    "SS26/BA/Arbeit/Schritte",
+    "SS26/BA/~$Stellenbörsenbeobachtung-Vertrieb.xlsx",
+    "SS26/Strategischen Management/11ter Letzter.md",
     "SS26/Strategischen Management/1ste Vorlesung.md",
-    "SS26/Vorbereitung zur BA/Willkommen in Vorbereitungssiminar.md",
-    "WS25/Big Data - Data Science/Maximum Likelihood.md",
-    "SS26/_Bilder/strategisches_management.pdf",
-    "WS25/Big Data - Data Science/7te Vorlesung (q and a).md",
-    "WS25/Big Data - Data Science/8te Vorlesung (Letzte Vorlesung).md",
-    "WS25/Big Data - Data Science/wdh-Logit.md",
-    "WS25/Big Data - Data Science/1. Vorlesung.md",
-    "SS26/Vorbereitung zur BA/Expose.md",
-    "SS26/_Bilder/Pasted image 20260308132132.png",
-    "SS26/Infosicherheit und Datenschutz/Technische und Orga.md",
-    "SS26/Infosicherheit und Datenschutz/1.Vorlesung.md",
-    "SS26/_Bilder/Pasted image 20260305134210.png",
     "SS26/Anwendungsprojekt/1. Zuch Neustart.md",
-    "SS26/Strategischen Management",
-    "SS26/_Bilder/Anwendungsprojekt.pdf",
-    "SS26/Anwendungsprojekt",
-    "SS26/BA",
-    "SS26/_Bilder/Unbenannt.jpg",
-    "SS26/Vorbereitung zur BA",
-    "id.md",
+    "SS26/BA/Stellenbörsenbeobachtung-Vertrieb.pdf",
+    "SS26/BA/Arbeit",
+    "SS26/BA/Expose_BA.pdf",
+    "SS26/BA/Alte Arbeit",
+    "SS26/BA/Quellen.md",
+    "WS25/Big Data - Data Science/Nochmal Wiederholung/Lineare regression (In verständlich).md",
+    "WS25/Big Data - Data Science/Nochmal Wiederholung/Auswertung Multiple Lineare Regressionen.md",
+    "WS25/Big Data - Data Science/2te Vorlesung.md",
+    "WS25/Big Data - Data Science/1. Vorlesung.md",
+    "SS26/_Bilder/strategisches_management.pdf",
+    "SS26/Strategischen Management/Nun wirklich Letzte.md",
     "SS26/_Bilder/IS_DS_01_Informationssicherheit_Vorlage.pdf",
-    "SS26/_Bilder/mso65E4.tmp",
-    "SS26/_Bilder/mso3945.tmp",
+    "SS26/_Bilder/Unbenannt.jpg",
+    "SS26/_Bilder/Anwendungsprojekt.pdf",
+    "SS26/Strategischen Management/Unternehmensführung.md",
+    "2026-05-01.md",
+    "SS26/BA/Expose_BA.docx",
+    "Unbenannt.canvas",
+    "SS26/_Bilder/Pasted image 20260311180616.png",
+    "SS26/_Bilder/Pasted image 20260311141819.png",
+    "SS26/_Bilder/Pasted image 20260309155104.png",
+    "SS26/_Bilder/Pasted image 20260308132132.png",
+    "SS26/_Bilder/Pasted image 20260305134210.png",
     "SS26/_Bilder/Pasted image 20260302104630.png",
-    "Software Engineer/5te. Vorlesung.md",
     "Pasted image 20260110132027.png",
     "Pasted image 20260110132017.png",
     "Pasted image 20251017092229.png",
-    "_Bilder/Pasted image 20251016110936.png",
-    "_Bilder/Pasted image 20251016100733.png",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,31 @@
+
+- Definition sollte man drauf haben
+- und dann Kapiitel  16
+- Was sind KEF
+- Stakeholder Scanning
+- Strategische Analyse Market Based View 
+
+- Wichtige PIMS Studien, alles fußt darauf´(extra dokument )
+- Relativer Marktanteil
+- Wir müssen nichts rechnen 
+- K35 könnte man eine Klausurfrage stellen, kleine UNternhemen haben mehr erfolg wenn sie
+- Economie of Scale und Scope (Of Learning?)
+
+- F 43 müssen wir wissen
+- Porter f forces + Pestel (Was alles eine Rolle spielt wenn ich in ein anderes Land gehe)
+- F 47 Schlussforderungen (Welche Branchen wichtig sind)
+- D'Aveni
+- Man ist nie in allen Strategische Gruppen an, ab wann hat ein Konkurrent eine Stärke oder schwäche
+- DIe Eigenen Stärken und Schwächen ssich anschauen
+- Wer 64 AUswendig lernt hat was falsches gelernt
+- Knowledge Base View 
+- Implizites Wissen in Explizites Verwandeln ist das Erfolgskritische 
+- VRIN kenne
+- SWOT das ist der Übergang in die Strategieformulierung
+- Was ist der Aufbau des Unternehmens, die Vor und Nachteile weiß man wenn man es verstanden hat
+- Müssen wissen was Diversifikation und Konzentration ist 
+- BCG Matrix
+- In Klausur Praxisanteil mit Fragen zu den Case Studies, auch 72 Modell
+- Leica als Fallbeispiel ein Beispiel zu Kostenfokus 
+- 4 Actions Framework
+- Offensive und Deffensive Stratergien

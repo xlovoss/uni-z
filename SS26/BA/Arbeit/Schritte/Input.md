@@ -1,4 +1,4 @@
-Von [[Konzept mit weiteren Gedanken]]
+Von [[Konzept]]
 
 Wie bekomme ich den Input den ich haben will
 

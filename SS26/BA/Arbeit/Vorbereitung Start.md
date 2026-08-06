@@ -61,4 +61,4 @@ was ist davon gut geeignet was hilft und was ich kostengünstig
 Evaluierung die super drin
 
 -> Termin in 2 Wochen wieder
-hierzu alles in [[Konzept mit weiteren Gedanken]]
+hierzu alles in [[Konzept]]

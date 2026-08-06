@@ -41,7 +41,7 @@ Sowie [[methodenbegruendung_mit_quellen]]
 
 Überführe in in eine Maschine Lesbaren code
 
-**3. Relevanz-Scoring beim Matching (Konfidenz)** 
+**3. Relevanz-Konfidenz beim Matching (Konfidenz)** 
 
 - **Zweck:** Validierung, ob das durch NER identifizierte Wort tatsächlich dem Standardbegriff der Taxonomie entspricht (Rauschunterdrückung).
     

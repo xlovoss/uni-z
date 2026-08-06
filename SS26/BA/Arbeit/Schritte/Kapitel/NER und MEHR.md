@@ -1,4 +1,4 @@
-von  [[Konzept mit weiteren Gedanken]]
+von  [[Konzept]]
 
 **2a — Vorverarbeitung (NER-spezifisch)**  
 Nur HTML-Strip und Whitespace-Normalisierung. Casing, Satzzeichen und Satzgrenzen bleiben erhalten. Begründung: Transformer-basiertes NER nutzt Subword-Tokenisierung und Kontext; Lowercasing entfernt im Deutschen das Hauptmerkmal für Substantive.
